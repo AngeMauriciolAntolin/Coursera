@@ -1,2 +1,2 @@
-Nuevo repo Coursera
-#Titulo
+# Nuevo repo Coursera
+## Prácticas con Git
